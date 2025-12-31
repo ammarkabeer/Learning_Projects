@@ -1,2 +1,2 @@
 # Learning_Projects
-ALl the projects which i am practiced or work on them
+A collection of projects that I have practiced and worked on during my learning.
